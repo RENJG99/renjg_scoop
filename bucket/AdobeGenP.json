@@ -4,8 +4,8 @@
   "bin": "AdobeGenP.exe",
   "shortcuts": [
     [
-      "Adobe-GenP.exe",
-      "Adobe-GenP"
+      "AdobeGenP.exe",
+      "AdobeGenP"
     ]
   ]
 }
